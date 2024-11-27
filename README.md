@@ -1,13 +1,6 @@
-# flutter_countries_api
+# Flutter Countries Api
+Restful Api kulllanılan basit arayüzü olan tek sayfalık bir uygulamadır, http paketi kullanılarak yazılan restful api ile istek atılır ve istekden dönen cevaplar listelenir. Bu proje youtube kanalına atmak için yapılmıştır.
 
-BU flutter projesi Muhammed Koçak tarafından oluşturulmuştur
+<img src="screenshot/ss1.png" alt="1. Resim" width="400"/>
 
-## Dikkat!
 
-1. Gradle ,kotlin veya java hatası verirse proje dosyası üzerinden sürüm değişin
-2. Paket sürümü güncel değilse sürüm güncelleyin
-3. countries_services.dart dosyasında güncelleme yaparken https://restcountries.com/v3.1/all?fields=name,region adresini değişip fazla yük bindirirseniz projede hata alırsınız
-
-## Beni YouTube, GitHub ve Linkedin den takip edin!
-[GitHub](https://github.com/mmkocak)
-[YouTube](https://www.youtube.com/@mirzemuhammetkocak)
