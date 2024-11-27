@@ -1,16 +1,13 @@
 # flutter_countries_api
 
-A new Flutter project.
+BU flutter projesi Muhammed Koçak tarafından oluşturulmuştur
 
-## Getting Started
+## Dikkat!
 
-This project is a starting point for a Flutter application.
+1. Gradle ,kotlin veya java hatası verirse proje dosyası üzerinden sürüm değişin
+2. Paket sürümü güncel değilse sürüm güncelleyin
+3. countries_services.dart dosyasında güncelleme yaparken https://restcountries.com/v3.1/all?fields=name,region adresini değişip fazla yük bindirirseniz projede hata alırsınız
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Beni YouTube, GitHub ve Linkedin den takip edin!
+[GitHub](https://github.com/mmkocak)
+[YouTube](https://www.youtube.com/@mirzemuhammetkocak)
